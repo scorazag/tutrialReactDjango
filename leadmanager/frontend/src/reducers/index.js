@@ -4,5 +4,6 @@ import errors from './errors';
 
 export default combineReducers({
     leads,
-    errors
+    errors,
+    auth
 });
